@@ -10,4 +10,4 @@ instance_type = "t3.small"
 
 ami = "ami-08f44e8eca9095668"
 
-bucket_name = "terraform-poc-demo-25"
+bucket_name = "terraform-poc-demo-25-bucket"
