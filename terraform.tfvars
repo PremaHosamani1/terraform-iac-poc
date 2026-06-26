@@ -6,8 +6,8 @@ public_subnet_cidr = "10.0.1.0/24"
 
 availability_zone = "us-east-1a"
 
-instance_type = "t2.micro"
+instance_type = "t3.small"
 
-ami = "ami-0b6d9d3d33ba97d99"
+ami = "ami-08f44e8eca9095668"
 
 bucket_name = "terraform-poc-demo-25-bucket"
